@@ -52,7 +52,7 @@ position: relative;
 
 #p{
 	clear: right;
-	padding: 10px;
+	padding: 0px;
 }
 
 #module1{
@@ -62,8 +62,27 @@ position: relative;
 	text-align: center;
 	width: 80px;
 	color: white;
-	margin: 0px 10px 0px 0px;
+	margin-top: -10px;
 	margin-right: 0px;
 }
-
+#module2{
+	background-color: white;
+	border: 1px solid darkblue;
+	float: right;
+	text-align: center;
+	width: 80px;
+	color: black;
+	margin-top: -10px;
+	margin-right: 0px;
+}
+#module3{
+	background-color: seagreen;
+	border: 1px solid darkblue;
+	float: right;
+	text-align: center;
+	width: 80px;
+	color: white;
+	margin-top: -10px;
+	margin-right: 0px;
+}
 
