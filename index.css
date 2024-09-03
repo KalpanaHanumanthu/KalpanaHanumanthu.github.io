@@ -65,24 +65,5 @@ position: relative;
 	margin-top: -10px;
 	margin-right: 0px;
 }
-#module2{
-	background-color: white;
-	border: 1px solid darkblue;
-	float: right;
-	text-align: center;
-	width: 80px;
-	color: black;
-	margin-top: -10px;
-	margin-right: 0px;
-}
-#module3{
-	background-color: seagreen;
-	border: 1px solid darkblue;
-	float: right;
-	text-align: center;
-	width: 80px;
-	color: white;
-	margin-top: -10px;
-	margin-right: 0px;
-}
+
 
