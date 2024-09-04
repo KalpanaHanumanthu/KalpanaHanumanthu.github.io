@@ -14,7 +14,7 @@
 }
 @media (min-width: 768px) and (max-width: 991px) {
 	.col-md-6{
-		width: 50%%;
+		width: 50%;
 		float: left;
 		margin-top: auto;
 padding-top: 10px;
